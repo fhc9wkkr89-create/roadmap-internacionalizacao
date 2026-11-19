@@ -1,0 +1,246 @@
+{
+ "lastUpdated": "2026-11-19",
+ "gtm": "2026-12-02",
+ "tasks": [
+  {
+   "id": "lepag",
+   "phase": "f1",
+   "title": "Página da lista de espera + obrigado (com pesquisa de perfil)",
+   "owner": "Estrategista",
+   "done": true,
+   "blocked": false,
+   "fixed": "2026-11-17",
+   "deps": [],
+   "clickup_id": "1dfd3mc59yq"
+  },
+  {
+   "id": "nome",
+   "phase": "f1",
+   "title": "Bater o martelo no nome final do produto",
+   "owner": "Time de Pdt",
+   "done": false,
+   "blocked": false,
+   "fixed": "2026-11-20",
+   "deps": [],
+   "clickup_id": "1dfd3mc59yr"
+  },
+  {
+   "id": "lear",
+   "phase": "f1",
+   "title": "Subir a página da lista de espera no ar",
+   "owner": "Time de Mkt",
+   "done": false,
+   "blocked": false,
+   "fixed": "2026-11-21",
+   "deps": [
+    "lepag",
+    "nome"
+   ],
+   "clickup_id": "1dfd3mc59yt"
+  },
+  {
+   "id": "bio",
+   "phase": "f1",
+   "title": "Trocar o link da bio: checkout da comunidade → lista de espera",
+   "owner": "Time de Mkt",
+   "done": false,
+   "blocked": false,
+   "fixed": "2026-11-21",
+   "deps": [
+    "lear"
+   ],
+   "clickup_id": "1dfd3mc59yu"
+  },
+  {
+   "id": "posts",
+   "phase": "f2",
+   "title": "110 posts em espanhol (60 adaptados + 50 carrosséis do YouTube)",
+   "owner": "Estrategista",
+   "done": true,
+   "blocked": false,
+   "fixed": "2026-11-17",
+   "deps": [],
+   "clickup_id": "1dfd3mc59yv"
+  },
+  {
+   "id": "fluxo",
+   "phase": "f2",
+   "title": "Acesso ao Instagram do Pedro para a postagem",
+   "owner": "Giulia Junqueira",
+   "done": true,
+   "blocked": false,
+   "fixed": "2026-11-19",
+   "deps": [],
+   "clickup_id": "1dfd3mc59yw"
+  },
+  {
+   "id": "postar",
+   "phase": "f2",
+   "title": "Começar a postagem do orgânico em espanhol no Instagram do Pedro",
+   "owner": "Estrategista",
+   "done": false,
+   "blocked": false,
+   "fixed": "2026-11-21",
+   "deps": [
+    "posts",
+    "fluxo"
+   ],
+   "clickup_id": "1dfd3mc59yx"
+  },
+  {
+   "id": "fix",
+   "phase": "f2",
+   "title": "Posts fixados para a nova audiência (jornada, provas sociais, CTA da lista)",
+   "owner": "Estrategista",
+   "done": false,
+   "blocked": false,
+   "fixed": "2026-11-21",
+   "deps": [],
+   "clickup_id": "1dfd3mc59yy"
+  },
+  {
+   "id": "lm",
+   "phase": "f3",
+   "title": "Definir os lead magnets (base atual e base nova)",
+   "owner": "Giulia Junqueira",
+   "done": false,
+   "blocked": false,
+   "fixed": "2026-11-21",
+   "deps": [],
+   "clickup_id": "1dfd3mc59yz"
+  },
+  {
+   "id": "vsl",
+   "phase": "f4",
+   "title": "Copy da VSL (enviada para revisão)",
+   "owner": "Estrategista",
+   "done": true,
+   "blocked": false,
+   "fixed": "2026-11-17",
+   "deps": [],
+   "clickup_id": "1dfd3mc59z0"
+  },
+  {
+   "id": "tom",
+   "phase": "f4",
+   "title": "Retorno sobre o tom da VSL",
+   "owner": "Giulia Junqueira",
+   "done": false,
+   "blocked": false,
+   "fixed": "2026-11-19",
+   "deps": [
+    "vsl"
+   ],
+   "clickup_id": "1dfd3mc33dt"
+  },
+  {
+   "id": "adcopy",
+   "phase": "f4",
+   "title": "Copy dos anúncios em vídeo",
+   "owner": "Estrategista",
+   "done": false,
+   "blocked": false,
+   "fixed": "2026-11-24",
+   "deps": [
+    "tom"
+   ],
+   "clickup_id": "86e3u7adg"
+  },
+  {
+   "id": "dinam",
+   "phase": "f4",
+   "title": "Definir a dinâmica de gravação do Pedro e marcar a data",
+   "owner": "Giulia Junqueira",
+   "done": false,
+   "blocked": false,
+   "fixed": "2026-11-21",
+   "deps": [],
+   "clickup_id": "1dfd3mc59z1"
+  },
+  {
+   "id": "funil",
+   "phase": "f5",
+   "title": "Desenho do fluxo do funil CST Espanhol (com réguas de comunicação)",
+   "owner": "Estrategista",
+   "done": true,
+   "blocked": false,
+   "fixed": "2026-11-17",
+   "deps": [],
+   "clickup_id": "1dfd3mc59z2"
+  },
+  {
+   "id": "ti",
+   "phase": "f5",
+   "title": "Reunião com TI: banco de dados, UTMs e eventos do gerenciador",
+   "owner": "Estrategista",
+   "done": false,
+   "blocked": false,
+   "fixed": "2026-11-21",
+   "deps": [],
+   "clickup_id": "1dfd3mc59z3"
+  },
+  {
+   "id": "icd",
+   "phase": "f5",
+   "title": "Desenhar as automações do funil no iClosed",
+   "owner": "Estrategista",
+   "done": false,
+   "blocked": false,
+   "fixed": "2026-11-24",
+   "deps": [
+    "funil",
+    "ti"
+   ],
+   "clickup_id": "1dfd3mc59z4"
+  },
+  {
+   "id": "ici",
+   "phase": "f5",
+   "title": "Implementar as automações no iClosed (~2 semanas)",
+   "owner": "Estrategista",
+   "done": false,
+   "blocked": false,
+   "fixed": "2026-12-08",
+   "deps": [
+    "icd"
+   ],
+   "clickup_id": "1dfd3mc38jr"
+  },
+  {
+   "id": "crm",
+   "phase": "f5",
+   "title": "Reunião sobre CRM com atendimento por WhatsApp (com Vinícius Lima)",
+   "owner": "Estrategista",
+   "done": false,
+   "blocked": false,
+   "fixed": "2026-11-25",
+   "deps": [],
+   "clickup_id": "1dfd3mc33dy"
+  },
+  {
+   "id": "contr",
+   "phase": "f6",
+   "title": "Contratação do time de vendas",
+   "owner": "Giulia Junqueira",
+   "done": false,
+   "blocked": false,
+   "fixed": "2026-11-28",
+   "deps": [],
+   "clickup_id": "1dfd3mc59z5"
+  },
+  {
+   "id": "vendas",
+   "phase": "f6",
+   "title": "Reunião com o time de vendas para revisar o fluxo de abordagem",
+   "owner": "Estrategista",
+   "done": false,
+   "blocked": false,
+   "fixed": "2026-12-02",
+   "deps": [
+    "contr",
+    "ici"
+   ],
+   "clickup_id": "1dfd3mc59z6"
+  }
+ ]
+}
