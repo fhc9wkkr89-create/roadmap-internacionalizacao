@@ -266,6 +266,50 @@
     "icd"
    ],
    "clickup_id": "1dfd3mc59z6"
+  },
+  {
+   "id": "volorg",
+   "phase": "f2",
+   "title": "Orgânico com mais volume: 2 a 3 posts por dia testando formatos para a lista de espera",
+   "owner": "Estrategista",
+   "done": false,
+   "blocked": false,
+   "offset": 0,
+   "deps": [],
+   "clickup_id": "1dfd3mc5kbt"
+  },
+  {
+   "id": "heygen",
+   "phase": "f5",
+   "title": "Follow-up com a Júlia: vídeo de boas-vindas ainda não atualizado com o HeyGen",
+   "owner": "Estrategista",
+   "done": false,
+   "blocked": false,
+   "offset": 0,
+   "deps": [],
+   "clickup_id": "1dfd3mc5k9w"
+  },
+  {
+   "id": "apiflav",
+   "phase": "f1",
+   "title": "Confirmar com a Flávia qual API vamos usar no projeto espanhol",
+   "owner": "Estrategista",
+   "done": true,
+   "blocked": false,
+   "fixed": "2026-11-24",
+   "deps": [],
+   "clickup_id": "1dfd3mc5k9t"
+  },
+  {
+   "id": "proj27",
+   "phase": "f6",
+   "title": "Atualizar o planejamento e a projeção financeira 2027 do Pedro Sobral (unidade de internacionalização)",
+   "owner": "Estrategista",
+   "done": true,
+   "blocked": false,
+   "offset": 0,
+   "deps": [],
+   "clickup_id": "1dfd3mc5k9r"
   }
  ]
 }
