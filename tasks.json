@@ -184,6 +184,19 @@
    "clickup_id": "1dfd3mc59z1"
   },
   {
+   "id": "grav",
+   "phase": "f4",
+   "title": "Pedro gravar os criativos e a VSL (ideal na quinta, para dar tempo de editar)",
+   "owner": "Giulia Junqueira",
+   "done": false,
+   "blocked": false,
+   "fixed": "2026-11-26",
+   "deps": [
+    "dinam"
+   ],
+   "clickup_id": "86e3u792t"
+  },
+  {
    "id": "budget",
    "phase": "f4",
    "title": "Aprovação do budget",
