@@ -112,6 +112,19 @@
    "clickup_id": "1dfd3mc59yy"
   },
   {
+   "id": "dist",
+   "phase": "f2",
+   "title": "Iniciar a distribuição de conteúdo",
+   "owner": "Estrategista",
+   "done": false,
+   "blocked": false,
+   "fixed": "2026-11-30",
+   "deps": [
+    "budget"
+   ],
+   "clickup_id": "1dfd3mc5kbq"
+  },
+  {
    "id": "lm",
    "phase": "f3",
    "title": "Definir os lead magnets (base atual e base nova)",
@@ -169,6 +182,17 @@
    "fixed": "2026-11-25",
    "deps": [],
    "clickup_id": "1dfd3mc59z1"
+  },
+  {
+   "id": "budget",
+   "phase": "f4",
+   "title": "Aprovação do budget",
+   "owner": "Giulia Junqueira",
+   "done": false,
+   "blocked": false,
+   "fixed": "2026-11-27",
+   "deps": [],
+   "clickup_id": "1dfd3mc5kbp"
   },
   {
    "id": "funil",
