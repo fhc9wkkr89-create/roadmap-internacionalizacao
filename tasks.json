@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-19",
+ "lastUpdated": "2026-11-24",
  "gtm": "2026-12-02",
  "tasks": [
   {
@@ -16,7 +16,7 @@
   {
    "id": "nome",
    "phase": "f1",
-   "title": "Bater o martelo no nome final do produto",
+   "title": "Definir o nome final do produto (confirmar se vai ser Comunidade Subindo)",
    "owner": "Time de Pdt",
    "done": false,
    "blocked": false,
@@ -29,7 +29,7 @@
    "phase": "f1",
    "title": "Subir a página da lista de espera no ar",
    "owner": "Time de Mkt",
-   "done": false,
+   "done": true,
    "blocked": false,
    "fixed": "2026-11-21",
    "deps": [
@@ -43,13 +43,26 @@
    "phase": "f1",
    "title": "Trocar o link da bio: checkout da comunidade → lista de espera",
    "owner": "Time de Mkt",
-   "done": false,
+   "done": true,
    "blocked": false,
    "fixed": "2026-11-21",
    "deps": [
     "lear"
    ],
    "clickup_id": "1dfd3mc59yu"
+  },
+  {
+   "id": "apiconf",
+   "phase": "f1",
+   "title": "Fluxos de API e e-mail de confirmação da lista de espera (definir a API com a Flávia)",
+   "owner": "Estrategista",
+   "done": false,
+   "blocked": false,
+   "fixed": "2026-11-24",
+   "deps": [
+    "lear"
+   ],
+   "clickup_id": "1dfd3mc5k9u"
   },
   {
    "id": "posts",
@@ -78,7 +91,7 @@
    "phase": "f2",
    "title": "Começar a postagem do orgânico em espanhol no Instagram do Pedro",
    "owner": "Estrategista",
-   "done": false,
+   "done": true,
    "blocked": false,
    "fixed": "2026-11-21",
    "deps": [
@@ -125,7 +138,7 @@
    "phase": "f4",
    "title": "Retorno sobre o tom da VSL",
    "owner": "Giulia Junqueira",
-   "done": false,
+   "done": true,
    "blocked": false,
    "fixed": "2026-11-19",
    "deps": [
