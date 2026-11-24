@@ -115,10 +115,10 @@
    "id": "lm",
    "phase": "f3",
    "title": "Definir os lead magnets (base atual e base nova)",
-   "owner": "Giulia Junqueira",
+   "owner": "Estrategista",
    "done": false,
    "blocked": false,
-   "fixed": "2026-11-21",
+   "fixed": "2026-11-27",
    "deps": [],
    "clickup_id": "1dfd3mc59yz"
   },
@@ -166,7 +166,7 @@
    "owner": "Giulia Junqueira",
    "done": false,
    "blocked": false,
-   "fixed": "2026-11-21",
+   "fixed": "2026-11-25",
    "deps": [],
    "clickup_id": "1dfd3mc59z1"
   },
@@ -182,42 +182,17 @@
    "clickup_id": "1dfd3mc59z2"
   },
   {
-   "id": "ti",
-   "phase": "f5",
-   "title": "Reunião com TI: banco de dados, UTMs e eventos do gerenciador",
-   "owner": "Estrategista",
-   "done": false,
-   "blocked": false,
-   "fixed": "2026-11-21",
-   "deps": [],
-   "clickup_id": "1dfd3mc59z3"
-  },
-  {
    "id": "icd",
    "phase": "f5",
-   "title": "Desenhar as automações do funil no iClosed",
+   "title": "Desenhar e implementar as automações do funil no iClosed",
    "owner": "Estrategista",
    "done": false,
    "blocked": false,
-   "fixed": "2026-11-24",
+   "fixed": "2026-11-26",
    "deps": [
-    "funil",
-    "ti"
+    "funil"
    ],
    "clickup_id": "1dfd3mc59z4"
-  },
-  {
-   "id": "ici",
-   "phase": "f5",
-   "title": "Implementar as automações no iClosed (~2 semanas)",
-   "owner": "Estrategista",
-   "done": false,
-   "blocked": false,
-   "fixed": "2026-12-08",
-   "deps": [
-    "icd"
-   ],
-   "clickup_id": "1dfd3mc38jr"
   },
   {
    "id": "crm",
@@ -251,7 +226,7 @@
    "fixed": "2026-12-02",
    "deps": [
     "contr",
-    "ici"
+    "icd"
    ],
    "clickup_id": "1dfd3mc59z6"
   }
