@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-24",
+ "lastUpdated": "2026-11-25",
  "gtm": "2026-12-02",
  "tasks": [
   {
@@ -20,7 +20,7 @@
    "owner": "Time de Pdt",
    "done": false,
    "blocked": false,
-   "fixed": "2026-11-20",
+   "fixed": "2026-11-27",
    "deps": [],
    "clickup_id": "1dfd3mc59yr"
   },
@@ -56,7 +56,7 @@
    "phase": "f1",
    "title": "Fluxos de API e e-mail de confirmação da lista de espera (definir a API com a Flávia)",
    "owner": "Estrategista",
-   "done": false,
+   "done": true,
    "blocked": false,
    "fixed": "2026-11-24",
    "deps": [
@@ -190,7 +190,7 @@
    "owner": "Giulia Junqueira",
    "done": false,
    "blocked": false,
-   "fixed": "2026-11-26",
+   "fixed": "2026-11-30",
    "deps": [
     "dinam"
    ],
@@ -238,7 +238,7 @@
    "owner": "Estrategista",
    "done": false,
    "blocked": false,
-   "fixed": "2026-11-25",
+   "fixed": "2026-11-26",
    "deps": [],
    "clickup_id": "1dfd3mc33dy"
   },
@@ -272,7 +272,7 @@
    "phase": "f2",
    "title": "Orgânico com mais volume: 2 a 3 posts por dia testando formatos para a lista de espera",
    "owner": "Estrategista",
-   "done": false,
+   "done": true,
    "blocked": false,
    "offset": 0,
    "deps": [],
